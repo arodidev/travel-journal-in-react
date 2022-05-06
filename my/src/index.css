@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo {
+  width: 100px;
+  padding: 18px 0px 18px 35px;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  box-shadow: 0px 3px 7.45px rgba(0, 0, 0, 0.1);
+}
+.hero{
+  padding: 0 0 0 30px;
+  position: absolute;
+}
+
+.hero > h1{
+  position: absolute;
+  top: 350px;
+  line-height: 37.5px;
+}
+
+.hero > p{
+  position: absolute;
+  top: 450px;
+  width: 500px;
+}
+
+.img23 {
+  position: absolute;
+  width: 72.31px;
+  height: 96.42px;
+  left: 319.85px;
+  top: 201.45px;
+  border-radius: 8.95px;
+}
+
+/* image 28 */
+
+.img28 {
+  position: absolute;
+  width: 72.31px;
+  height: 96.42px;
+  left: 77px;
+  top: 144.81px;
+  border-radius: 8.95px;
+}
+
+/* image 29 */
+
+.img29 {
+  position: absolute;
+  width: 72.91px;
+  height: 96.42px;
+  left: 238.5px;
+  top: 231.58px;
+  border-radius: 8.95px;
+}
+
+/* image 25 */
+
+.img25 {
+  position: absolute;
+  width: 72.31px;
+  height: 96.42px;
+  left: 400.59px;
+  top: 114.08px;
+  border-radius: 8.95px;
+}
+
+/* image 22 */
+.img22 {
+  position: absolute;
+  width: 72.91px;
+  height: 97.02px;
+  left: 319.85px;
+  top: 96px;
+  border-radius: 8.95px;
+}
+
+/* image 24 */
+
+.img24 {
+  position: absolute;
+  width: 72.31px;
+  height: 97.02px;
+  left: 400.59px;
+  top: 218.93px;
+  border-radius: 8.95px;
+}
+
+/* image 27 */
+
+.img27 {
+  position: absolute;
+  width: 72.91px;
+  height: 96.42px;
+  left: 238.5px;
+  top: 126.13px;
+  border-radius: 8.95px;
+}
+
+/* image 26 */
+
+.img26 {
+  position: absolute;
+  width: 72.31px;
+  height: 97.02px;
+  left: 157.75px;
+  top: 175.54px;
+  border-radius: 8.95px;
+}
+
+/* image 30 */
+
+.img30 {
+  position: absolute;
+  width: 73.52px;
+  height: 63.88px;
+  left: 157.75px;
+  top: 103.23px;
+  border-radius: 8.95px;
+}
